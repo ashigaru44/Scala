@@ -1,2 +1,0 @@
-# Scala
-PP_Labs
